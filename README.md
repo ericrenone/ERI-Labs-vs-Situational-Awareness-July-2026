@@ -4,6 +4,15 @@
 
 ---
 
+* https://github.com/ericrenone/The-Tipping-Point-Nobody-Saw-Coming-On-Memory.
+
+* https://github.com/ericrenone/The-Memory-Market-Inversion-From-Shortage-to-Substitution-Architecture
+
+* https://github.com/ericrenone/The-Approximate-CORDIC-Frontier
+
+---
+
+
 ## Core Comparison Matrix
 
 | Dimension | Situational Awareness (June 2024) | ERI Labs Framework (July 2026) | Divergence |
