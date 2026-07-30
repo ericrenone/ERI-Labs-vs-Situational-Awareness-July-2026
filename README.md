@@ -4,7 +4,7 @@
 
 ---
 
-* https://github.com/ericrenone/The-Tipping-Point-Nobody-Saw-Coming-On-Memory.
+* https://github.com/ericrenone/The-Tipping-Point-Nobody-Saw-Coming-On-Memory
 
 * https://github.com/ericrenone/The-Memory-Market-Inversion-From-Shortage-to-Substitution-Architecture
 
